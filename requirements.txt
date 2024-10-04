@@ -1,0 +1,11 @@
+argparse
+pandas
+seaborn
+matplotlib
+googletrans
+transformers
+datasets
+torch
+os
+speech_recognition 
+webbrowser
